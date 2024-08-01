@@ -12,8 +12,6 @@ Meu nome é Maria Luisa;
 00001125461561sp@al.educacao.sp.gov.br
 
 
- ![](https://tenor.com/pt-BR/view/spongebob-squarepants-inspiration-rainbow-spongebob-wow-gif-15770014119538260723)
-
 
 
 

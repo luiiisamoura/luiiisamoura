@@ -1,16 +1,21 @@
-## Hi there 👋
+### SEJA BEM VINDO AO MEU PERFIL 💜
 
-<!--
-**luiiisamoura/luiiisamoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Luisa;
 
-Here are some ideas to get you started:
+- Estou Estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Javascript 
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ### Entre em contato comigo📫
+
+00001125461561sp@al.educacao.sp.gov.br
+
+
+ ![](https://tenor.com/pt-BR/view/spongebob-squarepants-inspiration-rainbow-spongebob-wow-gif-15770014119538260723)
+
+
+
+
+
+
